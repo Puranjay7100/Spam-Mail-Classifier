@@ -2,7 +2,7 @@
 Welcome to the Spam Mail Classifier, a machine learning-based web application designed to detect whether an email message is Spam or Ham (legitimate). This project leverages natural language processing techniques and logistic regression for accurate, real-time predictions — all accessible via an interactive web interface powered by Streamlit.
 
 🌐 Live Demo
-🔗 
+🔗 https://spam-mail-classifier-71.streamlit.app/
 
 📌 Overview
 Email spam is a common problem that affects communication and cybersecurity. Detecting spam automatically helps prevent phishing attacks and improves productivity by filtering out irrelevant messages.
